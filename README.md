@@ -8,8 +8,8 @@ This project analyzes educational data from the World Bank to uncover insights, 
 
 ## Repository Structure
 
-- **data/**: Contains the raw and/or processed datasets from the World Bank.
-- **notebooks/** or main directory: Includes Jupyter Notebook(s) used for data analysis, visualization, and modeling.
+- **data/**: Place the csv files in separate folder data.Give path to the data folder while reading csv files.
+- **notebooks/** or main directory: Place the .ipynb file in notebook folder.
 - **README.md**: Project overview and instructions.
 
 ## Notebooks
